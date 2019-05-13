@@ -1,11 +1,11 @@
 Matlab code for Negroni et al. rabbit ventricular model with myofilament contraction.
 
 This model describes excitation-contraction coupling in the rabbit ventricular myocytes.
-A new model of myofilament contraction is here included into our established (and updated)
-computational framework which integrates descriptions of electrophysiology, Ca and Na 
-handling, Ca/calmodulin-dependent protein kinase II (CaMKII) and protein kinase A (PKA)
-signaling pathways.
-
+A new model of myofilament contraction is here included into an established (and updated) 
+computational framework, which integrates descriptions of electrophysiology, Ca and Na
+handling (from Shannon et al. Biophys J. 2004 Nov;87(5):3351-71), Ca/calmodulin-dependent
+protein kinase II (CaMKII) and protein kinase A (PKA) signaling pathways (from Soltis and
+Saucerman, Biophys J. 2010 Oct 6;99(7):2038-47).
 
 ______________________________________________________________________________________
 Contents:
@@ -38,7 +38,7 @@ ________________________________________________________________________________
 Reference:
 
 J.A. Negroni, S. Morotti, E.C. Lascano, A.V. Gomes, E. Grandi, J.L. Puglisi, D.M. Bers.
-ß-adrenergic effects on cardiac myofilaments and contraction in an integrated rabbit
+ÃŸ-adrenergic effects on cardiac myofilaments and contraction in an integrated rabbit
 ventricular myocyte model.
 J Mol Cell Cardiol. 2015 Apr; 81:162-75.
 doi: https://doi.org/10.1016/j.yjmcc.2015.02.014
